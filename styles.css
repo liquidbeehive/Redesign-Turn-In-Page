@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Manrope-Bold';
+      src: url('Manrope/static/Manrope-Bold.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+  }
+  @font-face {
+    font-family: 'Manrope-Medium';
+      src: url('Manrope/static/Manrope-Medium.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+  }
+  
+    h1{
+      font-family:"Manrope-Bold", sans-serif;
+      font-size: x-large;
+      color: rgb(0, 0, 0);
+    }
+    h2{
+      font-family:"Manrope-Medium", sans-serif;
+      color: rgb(0, 0, 0);
+      font-size: medium;
+    }
+    #textBoxes{
+        margin: 10%;
+    }
+    
